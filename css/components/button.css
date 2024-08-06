@@ -1,0 +1,12 @@
+.btn-flat {
+    padding: 20px;
+      margin: 10px;
+      background-color: #2effaf;
+      color: white;
+      font-weight: 200;
+      border-radius: 25px;
+  }
+
+  .btn-flat:hover {
+   background-color: green
+  }
